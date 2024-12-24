@@ -7,4 +7,8 @@ In every mod, there is a file called `<mod name>_localization.lua` which contain
 The localization file is usually found in a folder along the lines of `<Darktide mods folder>/<mod name>/scripts/mods/<mod name>`
 
 # Usage and Requirements
-Basically the instructions from my [Enhanced Descriptions UwUifier](https://github.com/Backup158/DarktideBetterDescriptionsUwuify) but without steps 3-4. TL;DR run it through the terminal and check the issues section (because it has the same uwuify versioning issue).
+Basically the instructions from my [Enhanced Descriptions UwUifier](https://github.com/Backup158/DarktideBetterDescriptionsUwuify) but without steps 3-4. 
+
+TL;DR run it through the terminal 
+
+## Check the issues section (because it has the same uwuify versioning issue). The relevant lines here are 1 and 120.
